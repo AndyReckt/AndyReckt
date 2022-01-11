@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
+<p> <img src="https://metrics.lecoq.io/AndyReckt?template=classic&tweets=1&tweets.attachments=true&tweets.limit=2&tweets.user=andyysucks&config.timezone=Europe%2FParis" alt="Metrics" /> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andyreckt&show_icons=true&locale=en&layout=compact" alt="andyreckt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andyreckt&show_icons=true&locale=en" alt="andyreckt" /></p>
-[Metrics](https://metrics.lecoq.io/AndyReckt?template=classic&tweets=1&tweets.attachments=true&tweets.limit=2&tweets.user=andyysucks&config.timezone=Europe%2FParis)
 
