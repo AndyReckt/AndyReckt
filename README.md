@@ -30,12 +30,8 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/andyreckt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andyreckt" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Infos:</h3>
+![](https://github.com/AndyReckt/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/AndyReckt/github-stats/blob/master/generated/languages.svg)
 
-<p> <img src="https://metrics.lecoq.io/AndyReckt?template=classic&tweets=1&tweets.attachments=true&tweets.limit=2&tweets.user=andyysucks&config.timezone=Europe%2FParis" alt="Metrics" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andyreckt&show_icons=true&locale=en&layout=compact" alt="andyreckt" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=andyreckt&show_icons=true&locale=en" alt="andyreckt" /></p>
 
