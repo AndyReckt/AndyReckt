@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Infos:</h3>
-![](https://github.com/AndyReckt/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/AndyReckt/github-stats/blob/master/generated/languages.svg)
+<p align="center"><img align="center" src="https://github.com/AndyReckt/github-stats/blob/master/generated/overview.svg"><img align="center" src="https://github.com/AndyReckt/github-stats/blob/master/generated/languages.svg"></p>
 
 
