@@ -12,13 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on [Holiday](https://github.com/andyreckt/holiday)
 -->
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">A stupid coder from France</h3>
 
 <p align="left"> <a href="https://twitter.com/andyysucks" target="blank"><img src="https://img.shields.io/twitter/follow/andyysucks?logo=twitter&style=for-the-badge" alt="andyysucks" /></a> </p>
 
-- 🔭 I’m currently working on [Holiday](https://github.com/andyreckt/holiday)
+- 💤 I’m currently ***lazing off*** and not really working on anything
 
 - 🌱 I’m currently learning **More Java stuff, usually api-related (spigot)**
 
