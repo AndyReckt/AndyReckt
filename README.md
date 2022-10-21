@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/andyysucks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andyysucks" height="30" width="40" /></a>
 <a href="https://instagram.com/andyreckt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andyreckt" height="30" width="40" /></a>
 <a href="https://linktr.ee/andyreckt" target ="blank"><img align="center" src="https://discord.c99.nl/widget/theme-3/358630351343714304.png"/></a>
+<img align ="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31zwgaagfgz3uncutumowr2g2yxq&amp;redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31zwgaagfgz3uncutumowr2g2yxq&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=true&amp;bar_color=53b14f&amp;bar_color_cover=true"/>
 </p>
 
 <!--
