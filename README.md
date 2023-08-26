@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **More Java stuff, usually api-related (spigot)**
 
-- 📫 How to reach me **My discord: AndyReckt#0001 or my telegram: [@AndyReckt](https://t.me/andyreckt)**
+- 📫 How to reach me **My discord: @andyreckt or my telegram: [@AndyReckt](https://t.me/andyreckt)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
