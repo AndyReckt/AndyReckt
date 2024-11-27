@@ -1,41 +1,45 @@
 
-<!--
-**AndyReckt/AndyReckt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Hello](https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=Hello&fontAlign=50&descAlign=50)](https://github.com/andyreckt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Profile Views](https://komarev.com/ghpvc/?username=andyreckt&style=for-the-badge&color=blueviolet)
 
-- 🔭 I’m currently working on [Holiday](https://github.com/andyreckt/holiday)
--->
-<h1 align="center">Hi 👋, I'm Andy</h1>
-<h3 align="center">A stupid coder from France</h3>
+</div>
 
-<p align="left"> <a href="https://twitter.com/andyysucks" target="blank"><img src="https://img.shields.io/twitter/follow/andyysucks?logo=twitter&style=for-the-badge" alt="andyysucks" /></a> </p>
+```md
+Hey! I'm Andy, CS college student 🎓, comics reader 📖, and sometimes coder 💻 too
+Yes, I'm french 🇫🇷, and yes I do eat baguettes 🥖
 
-- 💤 I’m currently ***lazing off*** and not really working on anything
+# ❓ What I am currently doing
 
-- 🌱 I’m currently learning **More Java stuff, usually api-related (spigot)**
+- 👨‍💼 Working a real job (apprenticeship)
+- 🎓 Finishing my master
+- 💖 Playing Strinova 
+- 🤖 Making discord bots
+- 🌿 Working on minecraft servers
+```
 
-- 📫 How to reach me **My discord: @andyreckt or my telegram: [@AndyReckt](https://t.me/andyreckt)**
+## Coding stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/andyysucks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andyysucks" height="30" width="40" /></a>
-<a href="https://instagram.com/andyreckt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andyreckt" height="30" width="40" /></a>
-<a href="https://xyl.lol/andy" target ="blank"><img align="center" src="https://discord.c99.nl/widget/theme-3/358630351343714304.png"/></a>
-<img align ="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31zwgaagfgz3uncutumowr2g2yxq&amp;redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31zwgaagfgz3uncutumowr2g2yxq&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=true&amp;bar_color=53b14f&amp;bar_color_cover=true"/>
-</p>
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
 
-<!--
-<h3 align="left">Languages and Infos:</h3>
-<p align="center"><img align="center" src="https://github.com/AndyReckt/github-stats/blob/master/generated/overview.svg"><img align="center" src="https://github.com/AndyReckt/github-stats/blob/master/generated/languages.svg"></p>
--->
+<!--END_SECTION:waka-->
+📊 **Profile Stats**
+<div>
+  <img align="right" width="382px" src="https://github-profile-trophy.vercel.app/?username=andyreckt&theme=dracula&no-bg=true&no-frame=true&row=3&column=3" alt="Profile Thophies" />
+  <div align="left">
+      <img width="420px" src="https://streak-stats.demolab.com?user=andyreckt&theme=catppuccin_mocha&date_format=M%20j%5B%2C%20Y%5D&card_width=550" alt="GitHub Streak" />
+    <br>
+      <img width="420px" src="https://github-readme-stats-git-main-oestradiol.vercel.app/api?username=andyreckt&show_icons=true&count_private=false&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=19&include_all_commits=true"  alt="GitHub Stats" />
+  </div>
+</div>
 
+## Other
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.kyrie25.dev/api/358630351343714304?showBanner=true&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)%20blur(1px))](https://discord.com/users/358630351343714304?showBanner=true&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)%20blur(1px))
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zwgaagfgz3uncutumowr2g2yxq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=fb6ae1&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zwgaagfgz3uncutumowr2g2yxq&redirect=true)
+</div>
