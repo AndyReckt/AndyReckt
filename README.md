@@ -81,5 +81,4 @@ Bash                       7 hrs 44 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <div align="center">
 
 [![Discord Presence](https://lanyard.kyrie25.dev/api/358630351343714304?showBanner=true&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)%20blur(1px))](https://discord.com/users/358630351343714304?showBanner=true&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)%20blur(1px))
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zwgaagfgz3uncutumowr2g2yxq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=fb6ae1&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zwgaagfgz3uncutumowr2g2yxq&redirect=true)
 </div>
