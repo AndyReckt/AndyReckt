@@ -22,10 +22,6 @@ jobs:
           CODE_LANG: rust
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           LANG_COUNT: 10
-  update-all-time:
-    name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
-    steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -37,3 +33,4 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           LANG_COUNT: 10
           SECTION_NAME: wakaAT
+      
