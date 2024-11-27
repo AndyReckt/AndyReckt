@@ -22,7 +22,10 @@ Yes, I'm french 🇫🇷, and yes I do eat baguettes 🥖
 
 ## Coding stats
 
-📊 **Weekly development breakdown**
+📊 **Development breakdown**
+
+*Last week*
+
 <!--START_SECTION:waka-->
 
 ```rust
@@ -43,6 +46,11 @@ Bash                       7 hrs 44 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+*All-Time*
+<!--START_SECTION:wakaAT-->
+<!--END_SECTION:wakaAT-->
+
 📊 **Profile Stats**
 <div>
   <img align="right" width="382px" src="https://github-profile-trophy.vercel.app/?username=andyreckt&theme=dracula&no-bg=true&no-frame=true&row=3&column=3" alt="Profile Thophies" />

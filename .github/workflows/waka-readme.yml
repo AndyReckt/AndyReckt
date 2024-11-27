@@ -8,7 +8,21 @@ on:
     - cron: "0 0 * * * "
 
 jobs:
-  update-readme:
+  update-weekly:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          TIME_RANGE: last_7_days
+          SHOW_TIME:	true
+          SHOW_TOTAL: true
+          CODE_LANG: rust
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          LANG_COUNT: 10
+  update-all-time:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
@@ -22,3 +36,4 @@ jobs:
           CODE_LANG: rust
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           LANG_COUNT: 10
+          SECTION_NAME: wakaAT
