@@ -72,7 +72,7 @@ Bash                       7 hrs 44 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <div align="left">
       <img width="420px" src="https://streak-stats.demolab.com?user=andyreckt&theme=catppuccin_mocha&date_format=M%20j%5B%2C%20Y%5D&card_width=550" alt="GitHub Streak" />
     <br>
-      <img width="420px" src="https://github-readme-stats-andyreckts-projects.vercel.app/api?username=andyreckt&show_icons=true&count_private=true&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=19&include_all_commits=true&rank_icon=percentile"  alt="GitHub Stats" />
+      <img width="420px" src="https://github-readme-stats-andyreckts-projects.vercel.app/api?username=andyreckt&show_icons=true&count_private=true&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=19&include_all_commits=true"  alt="GitHub Stats" />
   </div>
 </div>
 
