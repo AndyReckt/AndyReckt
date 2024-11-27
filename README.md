@@ -8,7 +8,7 @@
 </div>
 
 ```md
-Hey! I'm Andy, CS college student 🎓, comics reader 📖, and sometimes coder 💻 too
+Hey! I'm `Andy`, CS college student 🎓, comics reader 📖, and sometimes coder 💻 too
 Yes, I'm french 🇫🇷, and yes I do eat baguettes 🥖
 
 # ❓ What I am currently doing
