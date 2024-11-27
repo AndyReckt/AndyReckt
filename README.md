@@ -25,7 +25,7 @@ Yes, I'm french 🇫🇷, and yes I do eat baguettes 🥖
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
-```txt
+```rust
 From: 19 November 2024 - To: 26 November 2024
 
 Total Time: 7 hrs 58 mins
