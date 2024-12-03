@@ -50,7 +50,7 @@ TSConfig     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:wakaAT-->
 
 ```rust
-From: 03 October 2023 - To: 30 November 2024
+From: 03 October 2023 - To: 01 December 2024
 
 Total Time: 645 hrs 41 mins
 
