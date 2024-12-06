@@ -50,7 +50,7 @@ Desktop file     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:wakaAT-->
 
 ```rust
-From: 03 October 2023 - To: 03 December 2024
+From: 03 October 2023 - To: 04 December 2024
 
 Total Time: 648 hrs 17 mins
 
