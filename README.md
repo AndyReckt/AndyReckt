@@ -49,7 +49,7 @@ TypeScript   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:wakaAT-->
 
 ```rust
-From: 03 October 2023 - To: 23 December 2024
+From: 03 October 2023 - To: 24 December 2024
 
 Total Time: 657 hrs 35 mins
 
