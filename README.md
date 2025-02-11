@@ -51,7 +51,7 @@ Groovy       9 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:wakaAT-->
 
 ```rust
-From: 03 October 2023 - To: 08 February 2025
+From: 03 October 2023 - To: 09 February 2025
 
 Total Time: 687 hrs 32 mins
 
