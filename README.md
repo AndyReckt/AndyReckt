@@ -51,7 +51,7 @@ Git          1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:wakaAT-->
 
 ```rust
-From: 03 October 2023 - To: 07 April 2025
+From: 03 October 2023 - To: 08 April 2025
 
 Total Time: 832 hrs 15 mins
 
