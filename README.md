@@ -51,7 +51,7 @@ Java         2 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:wakaAT-->
 
 ```rust
-From: 03 October 2023 - To: 02 May 2025
+From: 03 October 2023 - To: 03 May 2025
 
 Total Time: 848 hrs 55 mins
 
