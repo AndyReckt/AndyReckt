@@ -51,7 +51,7 @@ Shell Script   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:wakaAT-->
 
 ```rust
-From: 03 October 2023 - To: 03 August 2025
+From: 03 October 2023 - To: 04 August 2025
 
 Total Time: 920 hrs 34 mins
 
