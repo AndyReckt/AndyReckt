@@ -42,7 +42,7 @@ CSV   3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--START_SECTION:wakaAT-->
 
 ```rust
-From: 03 October 2023 - To: 19 November 2025
+From: 03 October 2023 - To: 20 November 2025
 
 Total Time: 986 hrs 7 mins
 
