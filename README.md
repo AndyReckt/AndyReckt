@@ -7,6 +7,7 @@
 
 </div>
 <!-- - 👨‍💼 Working a real job (apprenticeship) -->
+
 ```md
 Hey! I'm `Andy`, CS college student 🎓, comics reader 📖, and sometimes coder 💻 too
 Yes, I'm french 🇫🇷, and yes I do eat baguettes 🥖
