@@ -6,14 +6,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=andyreckt&style=for-the-badge&color=blueviolet)
 
 </div>
-
+<!-- - 👨‍💼 Working a real job (apprenticeship) -->
 ```md
 Hey! I'm `Andy`, CS college student 🎓, comics reader 📖, and sometimes coder 💻 too
 Yes, I'm french 🇫🇷, and yes I do eat baguettes 🥖
 
 # ❓ What I am currently doing
 
-<!-- - 👨‍💼 Working a real job (apprenticeship) -->
 - 🎓 Finishing my master
 - 💖 Playing Video Games 
 - 🤖 Making discord bots
