@@ -13,9 +13,9 @@ Yes, I'm french 🇫🇷, and yes I do eat baguettes 🥖
 
 # ❓ What I am currently doing
 
-- 👨‍💼 Working a real job (apprenticeship)
+<!-- - 👨‍💼 Working a real job (apprenticeship) -->
 - 🎓 Finishing my master
-- 💖 Playing Strinova 
+- 💖 Playing Video Games 
 - 🤖 Making discord bots
 - 🌿 Working on minecraft servers
 ```
