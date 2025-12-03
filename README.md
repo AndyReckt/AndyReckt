@@ -74,7 +74,9 @@ Bash                       13 hrs 55 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Other
 
+<!--
 <div align="center">
 
 [![Discord Presence](https://lanyard.kyrie25.dev/api/358630351343714304?showBanner=true&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)%20blur(1px))](https://discord.com/users/358630351343714304?showBanner=true&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)%20blur(1px))
 </div>
+-->
