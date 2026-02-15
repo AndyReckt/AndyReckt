@@ -51,7 +51,7 @@ Properties        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:wakaAT-->
 
 ```rust
-From: 03 October 2023 - To: 12 February 2026
+From: 03 October 2023 - To: 13 February 2026
 
 Total Time: 1,106 hrs 25 mins
 
