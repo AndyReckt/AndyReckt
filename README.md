@@ -10,13 +10,13 @@
 
 ```md
 Hey! I'm `Andy`, CS college student 🎓, comics reader 📖, and sometimes coder 💻 too
-Yes, I'm french 🇫🇷, and yes I do eat baguettes 🥖
+Yes, I'm french 🇫🇷, and yes I do eat baguettes 🥖 and suck dick 🍆
 
 # ❓ What I am currently doing
 
 - 🎓 Finishing my master
-- 💖 Playing Video Games 
-- 🤖 Making discord bots
+- 💖 Playing Video Games
+- 🌴 Slacking off
 - 🌿 Working on minecraft servers
 ```
 
