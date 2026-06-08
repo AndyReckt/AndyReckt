@@ -29,7 +29,7 @@ Yes, I'm french 🇫🇷, and yes I do eat baguettes 🥖
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 May 2026 - To: 05 June 2026
+From: 31 May 2026 - To: 07 June 2026
 
 Total Time: 1 hr 28 mins
 
