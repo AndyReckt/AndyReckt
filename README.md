@@ -42,7 +42,7 @@ Kotlin   17 mins               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--START_SECTION:wakaAT-->
 
 ```rust
-From: 03 October 2023 - To: 16 September 2026
+From: 03 October 2023 - To: 17 September 2026
 
 Total Time: 1,497 hrs 24 mins
 
