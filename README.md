@@ -42,7 +42,7 @@ INI   1 min                 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--START_SECTION:wakaAT-->
 
 ```rust
-From: 03 October 2023 - To: 04 October 2026
+From: 03 October 2023 - To: 05 October 2026
 
 Total Time: 1,506 hrs 47 mins
 
