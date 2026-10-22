@@ -42,7 +42,7 @@ SNBT   2 mins                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 <!--START_SECTION:wakaAT-->
 
 ```rust
-From: 03 October 2023 - To: 20 October 2026
+From: 03 October 2023 - To: 21 October 2026
 
 Total Time: 1,507 hrs 45 mins
 
